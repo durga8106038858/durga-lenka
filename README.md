@@ -1,3 +1,3 @@
-# durga-lenka
+durga-lenka
 durga lenka
 author-durga
